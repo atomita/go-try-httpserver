@@ -1,0 +1,5 @@
+package: httpserver
+import:
+- package: github.com/mitchellh/cli
+- package: github.com/jteeuwen/go-pkg-optarg
+- package: github.com/labstack/echo
